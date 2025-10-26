@@ -1,0 +1,6 @@
+@GamerDashboardSteam_HostAddress = http://localhost:5083
+
+GET {{GamerDashboardSteam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
